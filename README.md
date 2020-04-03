@@ -3,6 +3,8 @@
 #### 开发工具
 android studio、Unity（建议Unity Hub）、Visual Studio 2017
 
+ ![Alt](https://github.com/milanxiaotiejiang/ExplosiveShare/blob/master/ExplosiveShare/demo.png)
+
 
 unity
 ```
